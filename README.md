@@ -1,5 +1,6 @@
 # Convolutional Neural Network made with Gorgonia
 This project implements a Convolutional Neural Network (CNN) in Go using the Gorgonia library.
+![image](https://github.com/TajnyReddy/GorgoniaCNN/assets/59600478/3e5eef5c-29b8-4871-a069-e9055e8efcba)
 
 ### Architecture
 * Input Layer: The input layer receives the raw pixel values of the images. Each image is resized to a standard size of 28x28 pixels to ensure uniformity.
